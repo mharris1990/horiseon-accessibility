@@ -1,5 +1,7 @@
 # Horiseon Accessibility Project
 
+![A screenshot of Horiseon's homepage](https://github.com/mharris1990/horiseon-accessibility/blob/main/Assets/images/horiseon-screenshot.png)
+
 ## Description
 
 My motivation for building this project was to create an accessible web page for a company (Horiseon). I built this project to show how accessible code looks and functions. It solves issues with accessability in the initial starter code and creats a more inclusive environment for the company by allowing others to easily access their web page.
@@ -12,7 +14,7 @@ I combined them as
 .benefit-lead, .benefit-cost, .benefit-brand
 within the CSS class area.
 
-![A screenshot of Horiseon's homepage](https://github.com/mharris1990/horiseon-accessibility/blob/main/Assets/images/horiseon-screenshot.png)
+![An example of combined CSS classes. The classes benefit-brand, benefit-cost, and benefit-lead are combined on line 100 using commas.](https://github.com/mharris1990/horiseon-accessibility/blob/main/Assets/images/horiseon-css-example.png)
 
 ## Credits
 
