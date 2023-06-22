@@ -1,6 +1,8 @@
 # Horiseon Accessibility Project
 
-![A screenshot of Horiseon's homepage](https://github.com/mharris1990/horiseon-accessibility/blob/main/Assets/images/horiseon-screenshot.png)
+![image](https://github.com/mharris1990/horiseon-accessibility/assets/133457099/bbc3e5a7-a524-4794-b033-ce0aed1e29a6)
+
+Deployed at: https://mharris1990.github.io/horiseon-accessibility/
 
 ## Description
 
