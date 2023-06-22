@@ -6,13 +6,13 @@ My motivation for building this project was to create an accessible web page for
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+In order to make the code more accessable, I combined classes with the same attributes (font size/family/color, image size, etc.) by adding them on the same line using commas. For example, the classes "benefit-brand", "benefit-cost", and "benefit-lead" were all on different lines, but had the same margin and color. 
 
-## Usage
+I combined them as
+.benefit-lead, .benefit-cost, .benefit-brand
+within the CSS class area.
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-(assets/images/horiseon-screenshot.png)
+![A screenshot of Horiseon's homepage](https://github.com/mharris1990/horiseon-accessibility/blob/main/Assets/images/horiseon-screenshot.png)
 
 ## Credits
 
